@@ -4,4 +4,8 @@ Attaching Screenshot of the website:
 
 ![WhatsApp Image 2023-12-17 at 13 17 31_6714bf30](https://github.com/Cs7dev/finance_fate_web/assets/93176514/dad3bdcd-f749-4d81-996b-8e25110f5a66)
 
+# Snap:
+https://github.com/Cs7dev/finance_fate_web/assets/93176514/939483cb-ac8a-40cd-99e4-526ccc69cb11
+
+
 
